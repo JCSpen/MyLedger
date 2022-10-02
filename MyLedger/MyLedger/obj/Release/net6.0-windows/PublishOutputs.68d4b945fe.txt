@@ -1,0 +1,5 @@
+C:\Users\spenc\Desktop\Projects\Published\MyLedger.exe
+C:\Users\spenc\Desktop\Projects\Published\MyLedger.dll
+C:\Users\spenc\Desktop\Projects\Published\MyLedger.deps.json
+C:\Users\spenc\Desktop\Projects\Published\MyLedger.runtimeconfig.json
+C:\Users\spenc\Desktop\Projects\Published\MyLedger.pdb

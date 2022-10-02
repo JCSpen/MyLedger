@@ -1,0 +1,5 @@
+C:\Users\spenc\Desktop\My Ledger v1.12\MyLedger.exe
+C:\Users\spenc\Desktop\My Ledger v1.12\MyLedger.dll
+C:\Users\spenc\Desktop\My Ledger v1.12\MyLedger.deps.json
+C:\Users\spenc\Desktop\My Ledger v1.12\MyLedger.runtimeconfig.json
+C:\Users\spenc\Desktop\My Ledger v1.12\MyLedger.pdb
